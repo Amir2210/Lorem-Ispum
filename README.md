@@ -30,3 +30,7 @@ The development process began with setting up the React environment and defining
 3. Run npm install to install dependencies.
 4. Run npm run dev to start the development server.
 5. Open your browser and navigate to http://localhost:5173 to view the application.
+
+https://github.com/Amir2210/Lorem-Ispum-Component/assets/107459404/ac072578-13de-4fb4-9532-f54e86213ada
+
+![ללא שם](https://github.com/Amir2210/Lorem-Ispum-Component/assets/107459404/d08b8ba6-92e3-41fd-88a5-e84dfe2ae422)
